@@ -1,4 +1,4 @@
- % Composite Trapizoidal Rule
+ % Trapizoidal Rule
 clc
 clear
 close all
